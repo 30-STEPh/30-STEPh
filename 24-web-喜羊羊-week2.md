@@ -8,11 +8,12 @@
 
 这下问题解决了，唉，菜是原罪
 
+
 ## 拓展的配置--hackbar
 
 首先鼠鼠要看一下hackbar是怎么用的，因为鼠鼠更倾向于使用burpsuit，下载两个免费版本的hackbar,一个无法使用就切另一个
 
-![在这里插入图片描述](https://raw.githubusercontent.com/30-STEPh/photos/main/20250324012154214.png)
+![在这里插入图片描述](https://raw.githubusercontent.com/30-STEPh/photos/main/20250324012154214.png)![41bd544d002fecae2bdd0cc4872e1dd8](https://github.com/user-attachments/assets/daf57491-5acb-4a92-bc28-86ee11661d1e)
 
 csdn给出了详细的介绍
 
